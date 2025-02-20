@@ -10,11 +10,10 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/development_culture
-.git
+   git clone https://github.com/development_culture.git
    ```
 2. Перейдите в нужную папку с заданием:
-   ```bash
+   ```
    cd task_name
    ```
 3. Ознакомьтесь с инструкциями в `README.md` внутри папки задания.
