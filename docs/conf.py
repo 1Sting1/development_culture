@@ -1,3 +1,7 @@
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../src'))
+
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information -----------------------------------------------------
@@ -21,3 +25,6 @@ html_static_path = ['_static']
 
 # -- Language settings -------------------------------------------------------
 language = 'ru'
+
+# -- Autodoc settings -------------------------------------------------------
+master_doc = 'index'
